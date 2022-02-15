@@ -1,3 +1,5 @@
+# [原作者](https://plugins.jetbrains.com/plugin/13192-mysql-explain)
+
 # MYSQL EXPLAIN
 auto execute mysql explain when execute sql. support `com.mysql.jdbc.PreparedStatement` statements.
 
